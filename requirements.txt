@@ -3,3 +3,9 @@ pytest
 click
 black
 pytest-cov
+requests
+geopandas
+shapely
+psycopg2-binary
+sqlalchemy
+geoalchemy2

@@ -1,0 +1,10 @@
+[run]
+source =
+    etl
+    scaffold
+    .
+
+[report]
+omit =
+    */__init__.py
+    */.venv/*
